@@ -1,5 +1,4 @@
 using Entities.Entidades;
-using System.Collections.Generic;
 
 namespace Domain.Interfaces
 {
